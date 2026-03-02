@@ -1,57 +1,60 @@
-# Renjie Wu (吴仁杰)
-**海南大学 | 软件工程专业** (2023.09 - 至今) | 211院校 | 共青团员
-📧 Email: 17889882185@163.com
-📍 研究方向：物联网入侵检测、网络安全态势感知、持续学习、对比学习、轻量化AI模型设计
+# Renjie Wu
+**Software Engineering** | Hainan University (211) | Sep. 2023 - Present
+League Member of the Communist Youth League of China | Born: Sep. 2004
+📧 E-mail: 17889882185@163.com
+📍 Research Interests: IoT Intrusion Detection, Network Security Situation Awareness, Continual Learning, Contrastive Learning, Lightweight AI Model Design
 
-### 📊 核心学业指标
-- 绩点排名：**2/177（前1.1%）** | GPA：3.91/4 | 平均成绩：91.83
-- 英语能力：CET-4 555 | CET-6 487
-- 荣誉称号：三好学生、优秀学生干部
-- 奖学金：国家励志奖学金、粤山励志奖学金
+## 📊 Academic Performance Highlights
+- Rank: **2/177 (Top 1.1%)** | GPA: 3.91/4 | Average Score: 91.83/100
+- English Proficiency: CET-4: 555 | CET-6: 487
+- Honors & Scholarships: National Encouragement Scholarship, Yueshan Encouragement Scholarship, Merit Student, Excellent Student Cadre
 
-## 🏆 学术成果 | Academic Achievements
-### 已发表论文 (Peer-Reviewed)
+## 🏆 Academic Achievements
+### Published Papers (Peer-Reviewed)
 1. **TGDCLNet: Teacher-Guided Denoising Contrastive Learning Network for IoT Intrusion Detection**
-   - *IEEE Internet of Things Journal* (中科院2区Top, SCI) | 2024.07-2025.07
-   - **学生第一作者**，独立负责**核心算法设计、代码实现、实验验证及全文撰写**
-   - 针对物联网流量不均衡/未知攻击检测鲁棒性不足问题，提出混合重平衡策略与去噪对比学习网络，在6个公开数据集上性能优于先进方法。
+   - *IEEE Internet of Things Journal* (**CAS Tier 2 Top, SCI**) | Jul. 2024 - Jul. 2025
+   - **Student First Author**; Independently responsible for core algorithm design, code implementation, experimental verification and full paper writing
+   - Addressed the problems of unbalanced traffic distribution and poor robustness of traditional methods in unknown attack detection for IoT; Proposed a hybrid re-balancing strategy (HRS) and denoising contrastive learning network, which outperformed state-of-the-art contrastive learning methods on 6 public IoT datasets.
 
-### 在投顶刊论文 (Under Review)
+### Under Review (Top Journals)
 1. **DQM-SRD: Dual-Queue Memory with Structural Relation Distillation for IoT Intrusion Detection**
-   - *Engineering Applications of Artificial Intelligence* (中科院1区Top, SCI) | 2025.01-2026.02
-   - **第一作者**，独立完成算法设计、代码实现、实验验证及论文初稿
-   - 提出轻量化检测框架，解决物联网设备资源受限/标注成本高问题，降低计算开销与人工标注依赖。
+   - *Engineering Applications of Artificial Intelligence* (**CAS Tier 1 Top, SCI**) | Jan. 2025 - Feb. 2026
+   - **First Author**; Independently completed algorithm design, code implementation, experimental verification and paper draft
+   - Proposed a lightweight detection framework to tackle the challenges of resource constraints on IoT devices and high annotation costs, effectively reducing computational overhead and the model's reliance on manual annotation.
+
 2. **ACL-IDS: Automated Continual Learning Framework for Concept Drift in Intrusion Detection**
-   - *Engineering Applications of Artificial Intelligence* (中科院1区Top, SCI) | 2025.08-2026.02
-   - **第一作者**，独立完成全流程研究与论文撰写
-   - 设计自动化持续学习框架，解决网络概念漂移与模型灾难性遗忘问题，实现无人工标注的动态入侵检测。
+   - *Engineering Applications of Artificial Intelligence* (**CAS Tier 1 Top, SCI**) | Aug. 2025 - Feb. 2026
+   - **First Author**; Independently completed the whole research process and paper writing
+   - Designed an automated continual learning framework to solve the problems of concept drift in networks and catastrophic forgetting of models, realizing dynamic intrusion detection without manual annotation.
 
-### 学术奖项
-- **CENet2024 最佳论文奖**
+### Academic Awards
+- **Best Paper Award, CENet 2024**
 
-## 🥇 竞赛获奖 | Competition Awards
-### 国家级奖项
-1. 中国机器人大赛RoboCup机器人世界杯中国赛 | **国家级一等奖（全国冠军）** | 2024.11
-   - 项目：封关卫士——大规模网络安全态势感知系统，负责隐蔽攻击识别技术研发
-2. 中国国际大学生创新大赛 | **国家级银奖** | 2025.10
-   - 同上述项目，核心研发人员
-3. 中国高校计算机大赛-网络技术挑战赛 | **国家级三等奖** | 2025.08
+## 🥇 Competition Awards
+### National Awards
+1. RoboCup China Open (China Robot Competition) | **National First Prize (National Champion)** | Nov. 2024
+   - Project: *Customs Guardian - Large-Scale Network Security Situation Awareness System*; Responsible for the R&D of covert attack recognition technology
+2. China International College Students' Innovation Competition | **National Second Prize** | Oct. 2025
+   - Core R&D member of the above project
+3. China University Computer Competition - Network Technology Challenge | **National Third Prize** | Aug. 2025
 
-### 省级奖项
-1. 第十六届全国大学生数学竞赛（非数学A类）| **省级二等奖** | 2024.12
-2. 中国高校计算机大赛-团体程序设计天梯赛 | **省级二等奖** | 2025.08
-3. 海峡两岸暨港澳地区大学生计算机创新作品赛 | **省级三等奖** | 2025.08
+### Provincial Awards
+1. The 16th National College Students Mathematics Competition (Non-Mathematics Category A) | **Provincial Second Prize** | Dec. 2024
+2. China University Computer Competition - Team Programming Ladder Tournament | **Provincial Second Prize** | Aug. 2025
+3. Cross-Strait, Hong Kong and Macao College Students Computer Innovation Competition | **Provincial Third Prize** | Aug. 2025
 
-## 📚 科研项目 | Research Projects
-### 主持项目
-- **封关轻盾——资源受限节点检测关键技术研究** | 省部级大学生创新创业训练计划 | 经费0.5万元 | 2025.06-至今
-  - 针对自贸港封关场景研发入侵检测创新方案，解决隐蔽攻击特征难提取/模型标签依赖/资源受限部署问题
-  - 负责**项目整体规划、核心技术攻关与方案设计**
+## 📚 Research Projects
+### Hosted Project
+- **Customs Light Shield - Research on Key Technologies of Resource-Constrained Node Detection**
+  - *Provincial and Ministerial Level College Students' Innovation and Entrepreneurship Training Program* | Funding: ¥5,000 | Jun. 2025 - Present
+  - Addressed three core challenges of traditional intrusion detection methods in the Hainan Free Trade Port closure scenario: difficult extraction of covert attack features, excessive model reliance on annotations, and hard deployment on resource-constrained nodes; Developed an innovative solution with efficient representation, weak annotation dependence and lightweight real-time response.
+  - Responsible for **overall project planning and core technical research**.
 
-### 参与项目
-- **大规模网络异常检测关键技术研究** | 国家级大学生创新创业训练计划 | 经费1.0万元 | 2024.06-2025.06
-  - 解决网络异常检测中流量大/特征维度高/隐私保护弱等问题，研发联邦学习+对比学习检测框架
-  - 负责**基于对比学习的特征提取与分类算法研发**，提升复杂场景检测性能
+### Participated Project
+- **Research on Key Technologies of Large-Scale Network Anomaly Detection**
+  - *National Level College Students' Innovation and Entrepreneurship Training Program* | Funding: ¥10,000 | Jun. 2024 - Jun. 2025
+  - Solved the problems of large attack traffic, high feature dimension, poor model detection performance caused by missing features and weak privacy protection in large-scale network anomaly detection; Developed a detection framework combining contrastive learning and federated learning.
+  - Responsible for **R&D of contrastive learning-based feature extraction and classification algorithms**, improving detection performance in complex scenarios.
 
 ---
-> 持续深耕物联网网络安全与AI融合方向，聚焦实际场景中的技术痛点，致力于研发高效、轻量化、高鲁棒性的入侵检测解决方案。
+I am committed to the integration of **IoT network security and artificial intelligence**, focusing on technical pain points in practical scenarios, and dedicated to developing efficient, lightweight and highly robust intrusion detection solutions.
